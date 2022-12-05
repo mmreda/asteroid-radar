@@ -1,9 +1,31 @@
-# Purpose of this Folder
+# Project Title
 
-This folder should contain the scaffolded project files to get a student started on their project. This repo will be added to the Classroom for students to use, so please do not have any solutions in this folder.
+Asteroid Radar
 
-## Note: Android Kotlin Gradle Update
-Use the updated Gradle version in the `~/gradle/wrapper/gradle-wrapper.properties` file:
-```
-distributionUrl = https\://services.gradle.org/distributions/gradle-6.1.1-all.zip
-```
+## Getting Started
+
+Asteroid Radar is an app to view the asteroids detected by NASA that pass near Earth, you can view all the detected asteroids in a period of time, their data (Size, velocity, distance to Earth) and if they are potentially hazardous.
+
+The app is consists of two screens: A Main screen with a list of all the detected asteroids and a Details screen that is going to display the data of that asteroid once it´s selected in the Main screen list. The main screen will also show the NASA image of the day to make the app more striking.
+
+This kind of app is one of the most usual in the real world, what you will learn by doing this are some of the most fundamental skills you need to know to work as a professional Android developer, as fetching data from the internet, saving data to a database, and display the data in a clear, clear, compelling UI.
+
+### Some of the Technologies and Techniques Used
+The app follows MVVM design pattern and makes use of following libraries.
+
+- Room
+- Moshi
+- Picasso
+- Retrofit2
+- WorkManager
+- RecyclerView
+- Data Binding
+- ConstraintLayout
+- Kotlin Coroutines
+- Lifecycle Components
+- Android Navigation Component
+
+#### API KEY
+To get an API Key from NASA to perform network requests to Nasa servers. You need to generate an api key by going to https://api.nasa.gov/
+
+Then go to asteroid-radar/app/src/main/java/com/udacity/asteroidradar/Constants.kt And replace DEMO_KEY with your API KEY
