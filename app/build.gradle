@@ -14,6 +14,10 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        // you can change myApiNasa with your API key here
+        // or got to gradle.properties file and create myApiNasa="YOUR_API_HERE"
+        buildConfigField 'String', 'NASA_API_KEY', myApiNasa
     }
     buildTypes {
         release {

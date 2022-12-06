@@ -28,4 +28,4 @@ The app follows MVVM design pattern and makes use of following libraries.
 #### API KEY
 To get an API Key from NASA to perform network requests to Nasa servers. You need to generate an api key by going to https://api.nasa.gov/
 
-Then go to asteroid-radar/app/src/main/java/com/udacity/asteroidradar/Constants.kt And replace DEMO_KEY with your API KEY
+Then go to replace myApiNasa in build.gradle(:app) file with your API key.
