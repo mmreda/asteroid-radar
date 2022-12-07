@@ -22,8 +22,8 @@ The app follows the MVVM Architecture Pattern and makes use of the following lib
 - WorkManager
 - ConstraintLayout
 - Kotlin Coroutines
+- Accessibility Talkback
 - Lifecycle Components
-- Accessibility (Talkback)
 - Android Navigation Component
 
 #### API KEY
