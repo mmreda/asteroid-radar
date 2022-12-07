@@ -11,7 +11,7 @@ The app is consists of two screens: A Main screen with a list of all the detecte
 This kind of app is one of the most usual in the real world, what you will learn by doing this are some of the most fundamental skills you need to know to work as a professional Android developer, as fetching data from the internet, saving data to a database, and display the data in a clear, clear, compelling UI.
 
 ### Some of the Technologies and Techniques Used
-The app follows the MVVM design pattern and makes use of the following libraries.
+The app follows the MVVM Architecture Pattern and makes use of the following libraries.
 
 - Room
 - Moshi
