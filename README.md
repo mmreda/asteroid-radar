@@ -17,9 +17,9 @@ The app follows the MVVM design pattern and makes use of the following libraries
 - Moshi
 - Picasso
 - Retrofit2
-- WorkManager
 - RecyclerView
 - Data Binding
+- WorkManager
 - ConstraintLayout
 - Kotlin Coroutines
 - Lifecycle Components
