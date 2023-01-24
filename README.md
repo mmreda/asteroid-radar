@@ -36,10 +36,10 @@ Then go to replace myApiNasa in build.gradle(:app) file with your API key.
 ## Screenshots
 
  ![Screenshot1](screenshots/asteroid-radar-screenshot-1.jpg)
- ![Screenshot1](screenshots/asteroid-radar-screenshot-2.jpg)
- ![Screenshot1](screenshots/asteroid-radar-screenshot-3.jpg)
- ![Screenshot1](screenshots/asteroid-radar-screenshot-4.jpg)
- ![Screenshot1](screenshots/asteroid-radar-screenshot-5.jpg)
+ ![Screenshot2](screenshots/asteroid-radar-screenshot-2.jpg)
+ ![Screenshot3](screenshots/asteroid-radar-screenshot-3.jpg)
+ ![Screenshot4](screenshots/asteroid-radar-screenshot-4.jpg)
+ ![Screenshot5](screenshots/asteroid-radar-screenshot-5.jpg)
 
 ### Udacity Review
  ![Screenshot1](screenshots/asteroid-radar-udacity-review.png)
